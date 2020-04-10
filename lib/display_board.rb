@@ -21,11 +21,4 @@ end
 
 
 
-def display_board(board)
-  board = [" O ", " ", " ", " ", " ", " ", " ", " ", " "]
- puts " #{board[0]} |   |   "
- puts "-----------"
- puts "   |   |   "
- puts "-----------"
- puts "   |   |   " 
-end
+
