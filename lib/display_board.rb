@@ -7,7 +7,7 @@ def display_board(board)
  puts " #{board[3]}  | #{"X"} | #{board[5]}   "
  puts "-----------"
  puts " #{board[6]}  | #{board[7]} | #{board[8]}   " 
- board[4] = "X"
+ 
 end
 
 
